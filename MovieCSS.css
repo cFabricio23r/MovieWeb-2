@@ -1,0 +1,68 @@
+.nav a {
+	color: white;
+}
+
+.nav-bar {
+	background: rgba(75, 75, 75, 0.3);
+	padding: 15px;
+	opacity: 15%;
+	position: absolute;
+	z-index: 9999;
+}
+.nav-bar2 {
+    background: #000000;
+    padding: 15px;
+    opacity: 15%;
+    z-index: 9999;
+}
+.container-nopad {
+	padding-right: 0;
+	padding-left: 0; 
+}
+
+.caption {
+    position: absolute;
+    padding-left: 15%;
+    padding-right: 15%;
+    bottom: 0.001px;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    color: #ffffff;
+    background: rgba(90, 90, 90, 0.5);
+    text-align: center;
+}
+.div-1{
+    background: #dddddd;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.div-2{
+    background: #000000;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.sticky {
+    position: fixed;
+    background: rgb(0, 0, 0);
+    padding: 15px;
+    opacity: 15%;
+    z-index: 99999;
+}
+.img-pad {
+    padding-left: 50px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 50px
+}
+
+.text-pad{
+    padding-left: 50px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    padding-right: 50px
+}
